@@ -1,4 +1,5 @@
 About Me
+
 -👋 Hi, I'm Neharika!
 -👀 I'm passionate about solving real-world problems, web development, and exploring diverse domains.
 -🌱 I'm currently learning machine learning, backend development, and cybersecurity to broaden my skill set and knowledge.
