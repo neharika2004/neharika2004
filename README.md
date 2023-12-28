@@ -4,7 +4,7 @@ About Me
 
 -👀 I'm passionate about solving real-world problems, web development, and exploring diverse domains.
 
--🌱 I'm currently learning machine learning, backend development, and cybersecurity to broaden my skill set and knowledge.
+-🌱 I'm currently learning app development, backend development, and cybersecurity to broaden my skill set and knowledge.
 
 -💼 I'm open to collaborating on projects that make a positive impact and involve innovative solutions.
 
